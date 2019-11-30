@@ -1,0 +1,8 @@
+this is how you should build a successful algorithm:
+	[1] understand the problem well.
+	[2] think about a primitive solution.
+	[3] ask what makes this solution work.
+	[4] ask what makes this solution bad.
+	[5] see how to make this solution better.
+	[6] implement a proof of concept.
+	[7] evaluate and enhance.
